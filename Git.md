@@ -6,6 +6,12 @@
 
 > [Git 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-tutorial.html)
 
+## 常用命令速查
+
+> [git查看当前账号名以及修改,更换源_HqL丶1024的博客-CSDN博客_查看git账号](https://blog.csdn.net/hql1024/article/details/107762587#)
+
+![](src\a361811740034054bd3a6d52e640ff1c.jpeg)
+
 ## 与SVN的区别
 
 |              | Git                                                   | SVN  |
